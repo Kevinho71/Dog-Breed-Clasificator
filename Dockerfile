@@ -20,4 +20,4 @@ ENV PYTHONUNBUFFERED=1 \
     STREAMLIT_SERVER_ADDRESS=0.0.0.0
 
 # Comando para ejecutar tu app principal
-CMD ["streamlit", "run", "src/DogBreedClasificator.py"]
+CMD ["streamlit", "run", "scr/DogBreedClasificator.py"]
