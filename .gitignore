@@ -1,0 +1,30 @@
+# === ENTORNOS VIRTUALES ===
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# === ARCHIVOS DE SISTEMA ===
+.DS_Store
+Thumbs.db
+
+# === STREAMLIT & LOGS ===
+*.log
+
+# === JUPYTER NOTEBOOKS ===
+.ipynb_checkpoints/
+
+# === IDE CONFIG (PyCharm) ===
+.idea/
+
+# === DATOS GRANDES (NO SE SUBEN) ===
+data/train/
+data/test/
+
+# === ARCHIVOS SECRETOS ===
+.env
+
+# === MODELOS PESADOS (opcional)
+models/modelo_entrenado.h5
