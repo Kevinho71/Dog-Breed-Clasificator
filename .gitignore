@@ -25,6 +25,3 @@ data/test/
 
 # === ARCHIVOS SECRETOS ===
 .env
-
-# === MODELOS PESADOS (opcional)
-models/modelo_entrenado.h5
